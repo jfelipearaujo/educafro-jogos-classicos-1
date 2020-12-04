@@ -17,7 +17,7 @@ Neste repositório serão adicionados os códigos referente ao curso Jogos Clás
 - Criar um jogo do estilo Pong no [Scratch](https://scratch.mit.edu/) com trilha sorona e tudo!
 
 <p align="center">
-<img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2001/jogo-pong-scratch.png" width="350"/>
+  <img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2001/jogo-pong-scratch.gif" width="350"/>
 </p>
 
 <br>
