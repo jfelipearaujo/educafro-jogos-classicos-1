@@ -24,6 +24,4 @@ Neste repositório serão adicionados os códigos referente ao curso Jogos Clás
 
 <br>
 
-Os próximos arquivos serão adicionados conforme forem sendo apresentados para vocês nas nossas lives de aula de reforço.
-
 Bons estudos!
