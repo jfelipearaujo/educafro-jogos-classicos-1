@@ -3,12 +3,12 @@
 </p>
 
 <h2 align="center">
-Jogos Clássicos 1
+Jogos Clássicos I
 </h2>
 
 <br>
 
-Neste repositório serão adicionados os códigos referente ao curso Jogos Clássicos 1 e referente as aulas de reforço que foram ministradas.
+Neste repositório serão adicionados os códigos referente ao curso Jogos Clássicos I e referente as aulas de reforço que foram ministradas.
 
 <p align="center">
   <h3>Assuntos abordados neste curso</h3>
@@ -23,7 +23,5 @@ Neste repositório serão adicionados os códigos referente ao curso Jogos Clás
 - Criar um jogo do estilo Pong no [p5](https://p5js.org/) em JavaScript com trila sonora e tudo!
 
 <br>
-
-Os próximos arquivos serão adicionados conforme forem sendo apresentados para vocês nas nossas lives de aula de reforço.
 
 Bons estudos!
