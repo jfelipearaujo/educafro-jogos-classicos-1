@@ -3,12 +3,12 @@
 </p>
 
 <h2 align="center">
-Jogos Clássicos 1
+Jogos Clássicos I
 </h2>
 
 <br>
 
-Neste repositório serão adicionados os códigos referente ao curso Jogos Clássicos 1 e referente as aulas de reforço que foram ministradas.
+Neste repositório serão adicionados os códigos referente ao curso Jogos Clássicos I e referente as aulas de reforço que foram ministradas.
 
 <p align="center">
   <h3>Assuntos abordados neste curso</h3>
