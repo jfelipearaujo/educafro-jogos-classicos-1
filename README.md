@@ -20,6 +20,8 @@ Neste repositório serão adicionados os códigos referente ao curso Jogos Clás
   <img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2001/jogo-pong-scratch.gif" width="350"/>
 </p>
 
+- Criar um jogo do estilo Pong no [p5](https://p5js.org/) em JavaScript com trila sonora e tudo!
+
 <br>
 
 Os próximos arquivos serão adicionados conforme forem sendo apresentados para vocês nas nossas lives de aula de reforço.
