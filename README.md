@@ -14,13 +14,17 @@ Neste repositório serão adicionados os códigos referente ao curso Jogos Clás
   <h3>Assuntos abordados neste curso</h3>
 </p>
 
-- Criar um jogo do estilo Pong no [Scratch](https://scratch.mit.edu/) com trilha sorona e tudo!
+- Criar um jogo do estilo Pong no [Scratch](https://scratch.mit.edu/) com trilha sorona e tudo:
 
 <p align="center">
-  <img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2001/jogo-pong-scratch.gif" width="350"/>
+  <img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2001/jogo-pong-scratch.gif" width="450"/>
 </p>
 
-- Criar um jogo do estilo Pong no [p5](https://p5js.org/) em JavaScript com trila sonora e tudo!
+- Criar um jogo do estilo Pong no [p5](https://p5js.org/) em JavaScript com trila sonora e tudo:
+
+<p align="center">
+  <img src="https://github.com/jfelipearaujo/educafro-jogos-classicos-1/blob/master/Aula%2005/jogo-pong-javascript.gif" width="450"/>
+</p>
 
 <br>
 
